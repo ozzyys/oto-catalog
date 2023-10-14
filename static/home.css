@@ -1,0 +1,51 @@
+body{
+    background-color: #ffffff;
+}
+
+img{
+    margin-top: 10px;
+}
+h2{
+    color: #000000;
+    text-decoration: none;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.logo img{
+    max-width: %100;
+    height: 100px;
+    margin: 25px 0px 50px 0px;
+}
+
+
+.all_buttons{
+    margin: auto;
+    width: 75%;
+    /*border: 3px solid;
+    padding: 10px;*/
+}
+
+.brand{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    border-radius: 20%;
+    float: left;
+    margin: 0px 25px 25px 0px;
+    width: 170px;
+    height: 190px;
+    border: 3px solid #DBDBDB;
+    text-align: center;
+}
+
+.brand:hover{
+    background-color: #F2F2F2;
+}
